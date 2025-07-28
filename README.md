@@ -89,4 +89,4 @@ Auto_Motive는 ML-Agents의 강화학습을 활용한 자율주행자동차 시�
 
 ## 🔗 관련 링크
 
-- [Notion에서 둘러보기]([https://www.notion.so/heejeonglim/Auto_Motive-8accfd9c627349b89f3c40eea531fd6f?pvs=4](https://www.notion.so/heejeonglim/Auto_Motive-f56b6afeace34c5e9f94d8d8328ee905?source=copy_link))
+- [Notion에서 둘러보기](https://www.notion.so/heejeonglim/Auto_Motive-f56b6afeace34c5e9f94d8d8328ee905?source=copy_link)
